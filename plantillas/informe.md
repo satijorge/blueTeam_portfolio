@@ -1,9 +1,3 @@
----
-SOC_ID: SOC000
-Tags: [phishing, malware, ...]
-Fecha: YYYY-MM-DD
----
-
 # Informe de Incidente - [Título del Caso]
 
 ## 1. Resumen Ejecutivo
@@ -24,7 +18,7 @@ La investigación determinó que se trata de un [Verdadero Positivo / Falso Posi
 | Severidad | [Baja / Media / Alta / Crítica] |
 | Estado | [Cerrado / Escalado / Contenido] |
 | Analista | Jorge Fernández Córcoles |
-| Fecha | YYYY-MM-DD |
+| Fecha | DD/MM/AAAA |
 
 ---
 
