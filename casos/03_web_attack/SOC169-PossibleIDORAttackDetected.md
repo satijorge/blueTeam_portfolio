@@ -76,8 +76,8 @@ Creación del script "Invoke-DNSExfiltrator.ps1" dentro de la siguiente ruta C:\
 
 | Táctica | Técnica | Sub-técnica | Descripción |
 |---|---|---|---|
-| Acceso Inicial | [T1190] | [] | [ Explotación de la vulnerabilidad IDOR en la aplicación web ] |
-| Recolección | [T1213] | [] | [ Recolección de datos de usuarios mediante las peticiones POST ] |
+| Acceso Inicial | [T1190] | | [ Explotación de la vulnerabilidad IDOR en la aplicación web ] |
+| Recolección | [T1213] | | [ Recolección de datos de usuarios mediante las peticiones POST ] |
 | Evasión de Defensas | [T1562] | [T1562.001] | [Desactivación de Microsoft Defender] |
 | Exfiltración | [T1048] | [T1048.003] | [Exfiltración de datos mediante consultas DNS con Invoke-DNSExfiltrator.ps1] |
 
@@ -87,8 +87,8 @@ Creación del script "Invoke-DNSExfiltrator.ps1" dentro de la siguiente ruta C:\
 
 | Herramienta | Uso |
 |---|---|
-| [ Google ] | [ Para consultar acerca de la herramienta Invoke-DNSExfiltrator.ps1 ] |
-| [ Claude ] | [ Resolución de dudas ] |
+| Google | [ Para consultar acerca de la herramienta Invoke-DNSExfiltrator.ps1 ] |
+| Claude | [ Resolución de dudas ] |
 
 ---
 
