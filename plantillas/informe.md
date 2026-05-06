@@ -51,6 +51,12 @@ La investigación determinó que se trata de un [Verdadero Positivo / Falso Posi
 ### 4.4 Actividad del Usuario / Endpoint
 [Describe la actividad relevante del usuario o del endpoint.]
 
+## 4.5 Línea de Tiempo del Incidente
+
+| Timestamp | Evento |
+|---|---|
+| HH:MM:SS | Primer evento detectado |
+| HH:MM:SS | ... |
 ---
 
 ## 5. Hallazgos
