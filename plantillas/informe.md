@@ -103,7 +103,3 @@ La investigación determinó que se trata de un [Verdadero Positivo / Falso Posi
 - [Acción 3]
 
 ---
-
-## 10. Lecciones Aprendidas
-
-[¿Qué has aprendido con este caso? ¿Qué harías diferente? ¿Qué técnica o herramienta descubriste?]
