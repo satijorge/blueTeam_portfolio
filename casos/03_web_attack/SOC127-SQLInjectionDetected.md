@@ -46,7 +46,6 @@ La alerta mostraba la detección de un ataque SQL injection en el endpoint WebSe
 Los logs mostraron indicaciones de un ataque de inyección SQL desde la dirección IP 118.194.247.28 hacia el endpoint WebServer1000. El ataque comienza con un payload genérico de inyección SQL. Este payload incluye numerosos vectores de ataque distintos: (XSS, command execution, etc...). El código 200 indica que los payloads fueron procesados por el servidor y llegaron a la base de datos, aunque no es posible confirmar si fueron ejecutados con éxito. Después de este payload el atacante comienza a realizar consultas de reconocimiento: para saber cuál es la base de datos, para enumerar columnas, etc... 
 
 ### 4.3 Análisis de IOCs
-[Resume IPs, dominios, hashes, URLs u otros artefactos sospechosos.]
 118.194.247.28 es la IP desde donde se realizan las consultas SQL. En VirusTotal aparece marcada como maliciosa por 10/91 vendors (Fortinet y BitDefender, entre otros). 
 
 ### 4.4 Actividad del Usuario / Endpoint
