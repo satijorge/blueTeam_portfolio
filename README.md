@@ -1,4 +1,4 @@
-# BlueTeam Portfolio — Jorge Fernández Córcoles
+# BlueTeam Portfolio
 
 Repositorio de casos prácticos de ciberseguridad defensiva. Recoge investigaciones de alertas reales trabajadas en plataformas de entrenamiento SOC como LetsDefend y CyberDefenders, documentadas siguiendo metodología de analista de nivel L1/L2.
 
