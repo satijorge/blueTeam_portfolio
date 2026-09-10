@@ -1,4 +1,4 @@
-# BlueTeam Portfolio — Jorge Fernández Córcoles
+# BlueTeam Portfolio
 
 Repositorio de casos prácticos de ciberseguridad defensiva. Recoge investigaciones de alertas reales trabajadas en plataformas de entrenamiento SOC como LetsDefend y CyberDefenders, documentadas siguiendo metodología de analista de nivel L1/L2.
 
@@ -12,8 +12,8 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 
 | Categoría | Estado |
 |-----------|--------|
-| APT Group | En proceso |
-| Brute Force | En proceso |
+| APT Group | ✓ Casos documentados |
+| Brute Force | ✓ Casos documentados |
 | C2 | En proceso |
 | Data Leakage | En proceso |
 | Exchange | En proceso |
