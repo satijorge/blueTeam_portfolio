@@ -83,6 +83,7 @@ La investigación determinó que se trata de un [Verdadero Positivo / Falso Posi
 |---|---|
 | VirusTotal | [Para qué se usó] |
 | AnyRun | [Para qué se usó] |
+| MITRE ATT&CK | [Para qué se usó] |
 | [Otra herramienta] | [Para qué se usó] |
 
 ---
