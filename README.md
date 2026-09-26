@@ -14,7 +14,7 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 |-----------|--------|
 | APT Group | ✓ Casos documentados |
 | Brute Force | ✓ Casos documentados |
-| C2 | En proceso |
+| C2 | ✓ Casos documentados |
 | Data Leakage | En proceso |
 | Exchange | En proceso |
 | Generic | En proceso |
