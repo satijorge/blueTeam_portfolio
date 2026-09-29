@@ -2,7 +2,7 @@
 
 ## 1. Resumen Ejecutivo
 
-Se investigó una alerta de seguridad relacionada con [descripción breve de la alerta].
+Se investigó una alerta de seguridad relacionada con una posible exfiltración de datos vía FTP desde el endpoint Jaiden. El atacante obtuvo acceso a la cuenta LetsDefend mediante fuerza bruta desde la IP `169.150.218.3`, realizó reconocimiento del sistema (`whoami` y búsqueda de archivos cuyo nombre contuviera `Secret`) y, a continuación, ejecutó un script de PowerShell que subía el archivo `Top Secret.docx` al servidor FTP `eu-central-1.sftpcloud.io` (`159.69.223.221`).
 
 La investigación determinó que se trata de un Verdadero Positivo.
 
