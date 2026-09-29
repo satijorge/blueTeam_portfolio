@@ -77,7 +77,7 @@ Antes de la exfiltración en el endpoint se pueden ver comandos de exploración/
 
 | Táctica | Técnica | Sub-técnica | Descripción |
 |---|---|---|---|
-| Acceso a Credenciales | T1110 | | El atacante realiza numerosos intentos de autenticación por fuerza bruta contra varias cuentas (`test`, `guest`, `admin`, `admin1907`...) hasta obtener credenciales válidas de la cuenta `LetsDefend` |
+| Acceso a Credenciales | T1110 | T1110.003 | El atacante realiza intentos de autenticación contra varias cuentas (`test`, `guest`, `admin`, `admin1907`...) recorriéndolas de forma cíclica con pocos intentos por cuenta, patrón propio de `password spraying`, hasta obtener credenciales válidas de la cuenta `LetsDefend` |
 | Acceso Inicial | T1078 | | El atacante inicia sesión en el sistema con las credenciales válidas obtenidas (EID 4624 desde `169.150.218.3`) |
 | Ejecución | T1059 | T1059.001 | El atacante abusa de comandos y scripts de PowerShell para su explotación en el sistema |
 | Exfiltración | T1048 | T1048.003 | El atacante roba datos extrayéndolos a través de un protocolo de red no cifrado (FTP) |
