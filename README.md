@@ -16,7 +16,7 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 | Brute Force | ✓ Casos documentados |
 | C2 | ✓ Casos documentados |
 | Data Leakage | ✓ Casos documentados |
-| Exchange | En proceso |
+| Exchange | ✓ Casos documentados |
 | Generic | En proceso |
 | LOLBin | En proceso |
 | Malware | ✓ Casos documentados |
