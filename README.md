@@ -16,7 +16,7 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 | Brute Force | ✓ Casos documentados |
 | C2 | ✓ Casos documentados |
 | Data Leakage | ✓ Casos documentados |
-| Exchange | En proceso |
+| Exchange | ✓ Casos documentados |
 | Generic | En proceso |
 | LOLBin | En proceso |
 | Malware | ✓ Casos documentados |
@@ -25,7 +25,7 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 | Proxy | ✓ Casos documentados |
 | Ransomware | En proceso |
 | ThreatIntel | ✓ Casos documentados |
-| Unauthorized Access | ✓ Casos documentados |
+| Unauthorized Access | En proceso |
 | Web Attack | ✓ Casos documentados |
 
 Cada caso incluye resumen ejecutivo, análisis de logs e IOCs, línea de tiempo del incidente, mapeo MITRE ATT&CK y acciones recomendadas.
