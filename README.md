@@ -25,7 +25,7 @@ Los casos están organizados por tipo de alerta, siguiendo la clasificación de 
 | Proxy | ✓ Casos documentados |
 | Ransomware | En proceso |
 | ThreatIntel | ✓ Casos documentados |
-| Unauthorized Access | En proceso |
+| Unauthorized Access | ✓ Casos documentados |
 | Web Attack | ✓ Casos documentados |
 
 Cada caso incluye resumen ejecutivo, análisis de logs e IOCs, línea de tiempo del incidente, mapeo MITRE ATT&CK y acciones recomendadas.
