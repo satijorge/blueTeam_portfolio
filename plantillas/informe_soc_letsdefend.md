@@ -60,7 +60,7 @@ La investigación determinó que se trata de un [Verdadero Positivo / Falso Posi
 ---
 
 ## 5. Hallazgos
-
+[Los hallazgos son las conclusiones confirmadas de la investigación, no los pasos que seguiste.]
 - [Hallazgo 1]
 - [Hallazgo 2]
 - [Hallazgo 3]
